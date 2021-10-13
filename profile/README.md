@@ -23,3 +23,12 @@ Many of the drivers shown here are either proofs-of-concept or under active deve
   - driver will be refactored to remove drawing functionality that should instead be kept in a standalone library
   - driver will be redesigned to avoid asynchronous callback hell, reduce the number of transfers to be queued on intiailizlation, and to imrpove system memory usage (primarily by reducing transfers)
   
+## Contributor Guidelines
+
+We welcome contributions from the community for all of our projects. If you are interested in contributing, please review the following information:
+
+- [Code of Conduct](https://embeddedartistry.com/fieldatlas/embedded-artistry-code-of-conduct/) 
+- [Source Code Commit Guidelines](https://embeddedartistry.com/fieldatlas/source-control-commit-guidelines/)
+- [Embedded Artistry's GitHub Process](https://embeddedartistry.com/fieldatlas/embedded-artistrys-github-process/)
+
+If you are unfamiliar with open source development, you will want to start with our [Open Source Contribution Guide](https://embeddedartistry.com/fieldatlas/open-source-contribution-guide/).
